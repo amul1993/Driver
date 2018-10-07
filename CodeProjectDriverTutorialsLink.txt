@@ -1,0 +1,15 @@
+Simple URB (USB Request Block) Monitor - https://www.codeproject.com/Articles/335364/Simple-URB-USB-Request-Block-Monitor
+File System Filter Driver Tutorial - https://www.codeproject.com/Articles/43586/File-System-Filter-Driver-Tutorial
+Driver to Hide Processes and Files - https://www.codeproject.com/Articles/32744/Driver-to-Hide-Processes-and-Files
+Windows Device Drivers - https://www.codeproject.com/Articles/602568/Windows-Device-Drivers
+Simple LoopBack Filter Driver - https://www.codeproject.com/Articles/107981/Simple-LoopBack-Filter-Driver
+Simple WDM LoopBack Driver - https://www.codeproject.com/Articles/34067/Simple-WDM-LoopBack-Driver
+Driver's Dispatch Routines Hooking - https://www.codeproject.com/Articles/1224222/Drivers-Dispatch-Routines-Hooking
+How to Sign Device Drivers with WDK 7.1 - https://www.codeproject.com/Tips/1003158/How-to-Sign-Device-Drivers-with-WDK
+Reading and Writing to Raw Disk Sectors - https://www.codeproject.com/Articles/28314/Reading-and-Writing-to-Raw-Disk-Sectors
+Keystroke Monitoring - https://www.codeproject.com/Articles/43144/Keystroke-Monitoring
+How to develop a virtual disk for Windows - https://www.codeproject.com/Articles/58950/How-to-develop-a-virtual-disk-for-Windows
+Simple Device Manager - https://www.codeproject.com/Articles/14469/Simple-Device-Manager
+Device Information - https://www.codeproject.com/Articles/31749/Device-Information
+Enumerate Properties of an Installed Device - https://www.codeproject.com/Articles/6866/Enumerate-Properties-of-an-Installed-Device
+Passthrough Minifilter Driver - https://github.com/surajfale/passthrough-minifilter-driver
